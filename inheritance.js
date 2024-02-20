@@ -24,8 +24,8 @@ class Programmer extends Person{
 
 var person1 = new Person("Kwabena", 20)
 
-var person2 = new Programmer("Joseph", 30, "Software Engineer")
+var programmer = new Programmer("Joseph", 30, "Software Engineer")
 
 person1.description()
 
-person2.description()
+programmer.description()
